@@ -13,4 +13,4 @@
 <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 </p>
 
-![Profile views](https://gpvc.arturio.dev/lendmid)  
+![Profile views](https://komarev.com/ghpvc/?lendmid)  
