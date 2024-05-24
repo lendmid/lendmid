@@ -36,6 +36,7 @@ I'm a self-taught Full Stack Engineer with focus and passion on Frontend develop
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 ---
+
 _Need some help on a project with my skillset? Let's chat:_ lendmid@gmail.com
 
-![Profile views](https://komarev.com/ghpvc/?username=lendmid&color=brightgreen) 
+![Profile views](https://komarev.com/ghpvc/?username=lendmid&color=brightgreen)
