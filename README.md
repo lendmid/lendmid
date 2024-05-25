@@ -1,6 +1,6 @@
 ### Hey folks! 👋
 
-Hi there! I'm Dima and I'm 27 years old, currently residing in Tel Aviv, Israel
+I'm Dima and I'm 27 years old, currently residing in Tel Aviv, Israel and originally from Moscow, Russia
 
 I'm a self-taught Full Stack Engineer with focus and passion on Frontend development. I enjoy working with others and solving tricky problems. Take a look at my work in the pins below 💫
 
