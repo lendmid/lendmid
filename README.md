@@ -1,15 +1,15 @@
 ### Hey folks! 👋
 
-I'm Dima and I'm 27 years old, currently residing in Tel Aviv, Israel and originally from Moscow, Russia
+I'm Dima and I'm 27 years old, currently residing in Tel Aviv, Israel, and originally from Moscow, Russia
 
-I'm a self-taught Full Stack Engineer with focus and passion on Frontend development. I enjoy working with others and solving tricky problems. Take a look at my work in the pins below 💫
+I'm a self-taught Full Stack Engineer with a focus and passion on Frontend development. I enjoy working with others and solving tricky problems. Take a look at my work in the pins below 💫
 
 ### 📊 GitHub Stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lendmid&hide_border=true&include_all_commits=true&count_private=true" alt="lendmid's github stats" /> | <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lendmid&hide_border=true&include_all_commits=true&count_private=false&layout=donut" alt="lendmid's github stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lendmid&hide_border=true&include_all_commits=true" alt="lendmid github stats" /> | <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lendmid&hide_border=true&include_all_commits=true&count_private=false&layout=donut" alt="lendmid's github stats" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-### 💻 Techologies:
+### 💻 Technologies:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
